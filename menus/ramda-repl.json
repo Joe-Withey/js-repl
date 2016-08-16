@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ramda-repl",
+        "command": "ramda-repl:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ramda-repl",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ramda-repl:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

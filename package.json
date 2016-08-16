@@ -1,0 +1,22 @@
+{
+  "name": "ramda-repl",
+  "main": "./lib/ramda-repl",
+  "version": "0.0.0",
+  "description": "Run Ramda code directly in Atom.",
+  "keywords": ["ramda", "repl", "atom"],
+  "activationCommands": {
+    "atom-workspace": "ramda-repl:toggle"
+  },
+  "repository": "https://github.com/edmulraney/ramda-repl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-stage-0": "^6.5.0",
+    "ramda": "^0.22.1",
+    "vm": "^0.1.0"
+  }
+}
