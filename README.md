@@ -2,7 +2,7 @@
 
 Evaluate JavaScript + Ramda code in an atom editor pane.
 
-## Intall
+## Install
 
 Clone the the repo into ~/.atom/packages
 
