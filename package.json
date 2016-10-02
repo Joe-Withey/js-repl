@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "ramda-repl:toggle"
   },
-  "repository": "https://github.com/edmulraney/ramda-repl",
+  "repository": "https://github.com/Joe-Withey/js-repl",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
