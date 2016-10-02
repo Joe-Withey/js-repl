@@ -1,9 +1,13 @@
 {
   "name": "ramda-repl",
   "main": "./lib/ramda-repl",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Run Ramda code directly in Atom.",
-  "keywords": ["ramda", "repl", "atom"],
+  "keywords": [
+    "ramda",
+    "repl",
+    "atom"
+  ],
   "activationCommands": {
     "atom-workspace": "ramda-repl:toggle"
   },
